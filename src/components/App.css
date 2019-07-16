@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+.myinput{
+  border-radius: 5px;
+  float: left;
+  margin-top: 2px;
+}
+.mybutton{
+  background-color: #28a745;
+  color: #fff;
+  border-radius: 5px;
+}
+.form{
+  margin-left: auto;
+  margin-right: auto;
+}
+.mylist{
+  margin-top: 10px;
+  max-width: 310px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 5px;
+}
+.myListItem{
+  margin-bottom: 8px;
+}
+.components{
+  background-color: #c1dac2;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
