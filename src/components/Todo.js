@@ -5,7 +5,7 @@ const Todo = ({ text, complete, onClick }) => {
     <li 
       className="list-group-item"
       onClick={onClick}
-      style={{marginBottom:"10px",textDecoration: complete ? "line-through" : "none" }}
+      style={{borderRadius:"30px" ,marginBottom:"10px",textDecoration: complete ? "line-through" : "none" }}
     >
       {text}
     </li>

@@ -5,7 +5,7 @@ import "../components/App.css";
 
 let AddTodo=({dispatch})=>{
   let input
-  //console.log("sdasd");
+  
   return(
       <div>
           <form style={{marginBottom:"10px",marginLeft:"8px"}} onSubmit={e=>{
